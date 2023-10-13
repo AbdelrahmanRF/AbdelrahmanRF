@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanrf&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanrf" /> </p>
 
-- 🔭 I’m currently working on **ChattingApp**
-
-- 🌱 I’m currently learning **Angular and .NET Core MVC**
+- 🌱 I’m currently learning **PHP and YII2**
 
 - 💬 Ask me about **Node.js, MongoDB , Express js**
 
