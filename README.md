@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanrf&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanrf" /> </p>
 
-- 🧑‍💻 I’m currently taking Programming Advices courses to enhance my **problem-solving skills** and grow as a developer.
+- 🧑‍💻 I’m currently taking [Programming Advices courses](https://programmingadvices.com/courses) to enhance my **problem-solving skills** and grow as a developer.
 
 - 📫 How to reach me 👉 **abdalrahmanalfar22@gmail.com**
 
